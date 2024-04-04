@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitrankmishra&label=Profile%20views&color=0e75b6&style=flat" alt="pavitrankmishra" /> </p>
 
-- 🔭 I’m currently working on TensorFlow
+- 🔭 I’m currently working on Power BI
 
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning TensorFlow 
 
 - 💬 Ask me about Python, Java, Power BI
 
