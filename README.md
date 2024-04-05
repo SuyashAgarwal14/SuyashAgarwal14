@@ -1,9 +1,10 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://github.com/SuyashAgarwal14/SuyashAgarwal14/assets/71805304/75c42e9d-7519-421e-95b8-80342d009d3d)
+
 <h1 align="center">Hi 👋, I'm Suyash Agarwal</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://github.com/SuyashAgarwal14/SuyashAgarwal14/assets/71805304/0118fc30-b5d8-477a-b551-1e0e2168988d"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavitrankmishra&label=Profile%20views&color=0e75b6&style=flat" alt="pavitrankmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuyashAgarwal14&label=Profile%20views&color=0e75b6&style=flat" alt="SuyashAgarwal" /> </p>
 
 - 🔭 I’m currently working on Power BI
 
