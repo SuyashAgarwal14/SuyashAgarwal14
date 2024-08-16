@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuyashAgarwal14&label=Profile%20views&color=0e75b6&style=flat" alt="SuyashAgarwal" /> </p>
 
-- 🔭 I’m currently working on Power BI
-
 - 🌱 I’m currently learning TensorFlow 
 
 - 💬 Ask me about Python, Java, Power BI
